@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="970ecd42-de9f-4467-a5fc-c12939ab8a1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfoArray.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/customerInfo/customerInfo_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pojo/CustomerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sdet/DatabaseToJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sdet/jsonToJavaObject.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fVgVwYf95wULN44ybZzdd2O0Sz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.jsonToJavaObject">
+    <configuration name="DatabaseToJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sdet.DatabaseToJava" />
+      <module name="SQLToAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sdet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jsonToJavaObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sdet.jsonToJavaObject" />
+      <module name="SQLToAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sdet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.jsonToJavaObject" />
+        <item itemvalue="Application.DatabaseToJava" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="970ecd42-de9f-4467-a5fc-c12939ab8a1c" name="Changes" comment="" />
+      <created>1713891688550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713891688550</updated>
+      <workItem from="1713891689911" duration="22169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
